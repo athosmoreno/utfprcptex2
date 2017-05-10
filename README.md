@@ -21,7 +21,9 @@ Vá na aba `Roots` e clique no botão `Add`. Selecione a pasta `utfprcptex2`. Es
 
 # Instalação em outros sistemas
 
-Leia o metodo 4 dessa resposta no LaTeX Stack Exchange. Se você tiver um passo-a-passo melhor, faça um pull request deste README.
+Leia o metodo 4 dessa resposta no LaTeX Stack Exchange: https://tex.stackexchange.com/questions/73016/how-do-i-install-an-individual-package-on-a-linux-system
+
+Se você tiver um passo-a-passo melhor, faça um pull request deste README.
 
 # Uso com o Git
 
