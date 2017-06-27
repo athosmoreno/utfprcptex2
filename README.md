@@ -1,7 +1,12 @@
 # utfprcptex2 - Pacote LaTeX para a UTFPR - CP 
 Pacote LaTeX para monografias (proposta, TCC) para a Universidade Tecnológica Federal do Paraná do campus da cidade de Cornélio Procópio.
 
-Esse repositório serve apenas como referencia para quem prefere usar o GitHub. Os desenvolvedores do pacote originais estão listados no começo do arquivo `modelo_dissertacao.tex`.
+Esse repositório serve apenas como referencia para quem prefere usar o GitHub. 
+
+Os desenvolvedores do pacote originais são:
+
+Rodrigo Rodrigues Sumar <sumar@utfpr.edu.br>
+Bruno Augusto Angélico <bangelico@utfpr.edu.br>
 
 As instruções a seguir são de minha autoria, sendo uma adaptação das instruções originais. Esse pacote e as instruções são distribuidos sem garantia e é responsabilidade de quem for utilizar o que ocorrer após.
 
@@ -19,11 +24,9 @@ Vá na aba `Roots` e clique no botão `Add`. Selecione a pasta `utfprcptex2`. Es
 
 ![MikTeX Options](https://vgy.me/y9PTpj.png)
 
-# Instalação em outros sistemas
+# Instalação com o Tex Live
 
-Leia o metodo 4 dessa resposta no LaTeX Stack Exchange: https://tex.stackexchange.com/questions/73016/how-do-i-install-an-individual-package-on-a-linux-system
-
-Se você tiver um passo-a-passo melhor, faça um pull request deste README.
+Windows: Vá a pasta `C:\texlive\texmf-local\tex\latex` e jogue o conteudo da pasta `utfprcptex2` neste local.
 
 # Uso com o Git
 
