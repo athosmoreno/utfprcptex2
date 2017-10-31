@@ -6,6 +6,7 @@ Esse repositório serve apenas como referencia para quem prefere usar o GitHub.
 Os desenvolvedores do pacote originais são:
 
 Rodrigo Rodrigues Sumar <sumar@utfpr.edu.br>
+
 Bruno Augusto Angélico <bangelico@utfpr.edu.br>
 
 As instruções a seguir são de minha autoria, sendo uma adaptação das instruções originais. Esse pacote e as instruções são distribuidos sem garantia e é responsabilidade de quem for utilizar o que ocorrer após.
@@ -40,7 +41,7 @@ Windows: use o seguinte script no PowerShell no diretório do seu projeto LaTeX
 
 `Dir | Rename-Item –NewName { $_.name –replace "modelo_dissertacao","proposta" }`
 
-Sendo `proposta` um exemplo de um nome. Substituia pelo que quiser.
+Sendo `proposta` um exemplo de um nome. Substitua pelo que quiser.
 
 Linux (utilizando o bash): Veja https://www.cyberciti.biz/tips/renaming-multiple-files-at-a-shell-prompt.html
 
