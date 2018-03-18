@@ -27,7 +27,9 @@ Vá na aba `Roots` e clique no botão `Add`. Selecione a pasta `utfprcptex2`. Es
 
 # Instalação com o Tex Live
 
-Windows: Vá a pasta `C:\texlive\texmf-local\tex\latex` e jogue o conteudo da pasta `utfprcptex2` neste local.
+Windows: Vá a pasta `C:\texlive\texmf-local\tex\latex` e jogue o conteudo da pasta `pacote` neste local.
+
+Linux: Encontre o local de instalação do seu TeX Live (o comando `which latex` pode ajudar, geralmente o local é `/usr/local/texlive/`. Após isso, vá na pasta `texmf-local/tex/latex` e jogue o conteudo da pasta `pacote` lá.
 
 # Uso com o Git
 
