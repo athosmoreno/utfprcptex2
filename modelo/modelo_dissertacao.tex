@@ -125,7 +125,7 @@
 %%%%                geração da ficha pela biblioteca.
 %%%%    - pdf: informar o nome do arquivo pdf com a ficha fornecinada
 %%%%           pela bibliteca.
-\folhaderosto[Fichacatalografica]
+\folhaderosto[FichaCatalografica]
 
 
 \termodeaprovacao % <- ainda a ser implementado corretamente
@@ -201,15 +201,15 @@ Il s'agit d'un résumé en français. (maximum de 500 mots).
 
 %---------- Inicio do Texto ----------
 % recomenda-se a escrita de cada capitulo em um arquivo texto separado (exemplo: intro.tex, fund.tex, exper.tex, concl.tex, etc.) e a posterior inclusao dos mesmos no mestre do documento utilizando o comando \input{}, da seguinte forma:
-\input{capitulo1/cap1.tex}
-\input{capitulo2/cap2.tex}
-\input{capitulo3/cap3.tex}
+\input{Capitulo1/Cap1.tex}
+\input{Capitulo2/Cap2.tex}
+\input{Capitulo3/Cap3.tex}
 
 
 %% Formatação de páginas de elementos pós-textuais
 \postextual%% Não comente esta linha
 %---------- Referencias ----------
-\bibliography{referencias/referencias} % geracao automatica das referencias a partir do arquivo reflatex.bib
+\bibliography{Referencias/referencias} % geracao automatica das referencias a partir do arquivo reflatex.bib
 
 %% Glossário
 \incluirglossario%% Comente para remover este item
